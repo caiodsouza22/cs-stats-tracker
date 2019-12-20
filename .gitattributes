@@ -1,0 +1,19 @@
+# Keep GitHub Linguist language detection centered on Python.
+*.py linguist-detectable=true
+*.py linguist-language=Python
+
+*.md linguist-documentation=true
+docs/** linguist-documentation=true
+examples/** linguist-documentation=true
+CHANGELOG.md linguist-documentation=true
+
+*.java linguist-vendored=true
+*.class linguist-vendored=true
+*.html linguist-vendored=true
+*.htm linguist-vendored=true
+*.css linguist-vendored=true
+*.js linguist-vendored=true
+
+*.egg-info/** linguist-generated=true
+**/__pycache__/** linguist-generated=true
+.pytest_cache/** linguist-generated=true
