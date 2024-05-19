@@ -1,0 +1,6967 @@
+{
+  "edition": "CS2",
+  "event_name": "Roundwire Invitational",
+  "map_name": "de_mirage",
+  "match_id": "cs2_01",
+  "played_at": "2024-06-01T18:00:00Z",
+  "players": [
+    {
+      "name": "lux",
+      "player_id": "cs2_01_ct1",
+      "team": "CT"
+    },
+    {
+      "name": "pine",
+      "player_id": "cs2_01_ct2",
+      "team": "CT"
+    },
+    {
+      "name": "arq",
+      "player_id": "cs2_01_ct3",
+      "team": "CT"
+    },
+    {
+      "name": "milo",
+      "player_id": "cs2_01_ct4",
+      "team": "CT"
+    },
+    {
+      "name": "zen",
+      "player_id": "cs2_01_ct5",
+      "team": "CT"
+    },
+    {
+      "name": "kaze",
+      "player_id": "cs2_01_t1",
+      "team": "T"
+    },
+    {
+      "name": "riot",
+      "player_id": "cs2_01_t2",
+      "team": "T"
+    },
+    {
+      "name": "nolo",
+      "player_id": "cs2_01_t3",
+      "team": "T"
+    },
+    {
+      "name": "byte",
+      "player_id": "cs2_01_t4",
+      "team": "T"
+    },
+    {
+      "name": "haze",
+      "player_id": "cs2_01_t5",
+      "team": "T"
+    }
+  ],
+  "rounds": [
+    {
+      "bomb_planted": false,
+      "damage": [
+        {
+          "attacker_id": "cs2_01_ct1",
+          "damage": 110,
+          "hitgroup": "chest",
+          "tick_ms": 4900,
+          "victim_id": "cs2_01_t1",
+          "weapon": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_ct1",
+          "damage": 70,
+          "hitgroup": "chest",
+          "tick_ms": 5000,
+          "victim_id": "cs2_01_t1",
+          "weapon": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_ct2",
+          "damage": 71,
+          "hitgroup": "chest",
+          "tick_ms": 5100,
+          "victim_id": "cs2_01_t2",
+          "weapon": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_ct3",
+          "damage": 72,
+          "hitgroup": "chest",
+          "tick_ms": 5200,
+          "victim_id": "cs2_01_t3",
+          "weapon": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_ct4",
+          "damage": 73,
+          "hitgroup": "chest",
+          "tick_ms": 5300,
+          "victim_id": "cs2_01_t4",
+          "weapon": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_ct5",
+          "damage": 74,
+          "hitgroup": "chest",
+          "tick_ms": 5400,
+          "victim_id": "cs2_01_t5",
+          "weapon": {
+            "name": "usp_silencer"
+          }
+        }
+      ],
+      "duration_ms": 90100,
+      "inventories": [
+        {
+          "armor": true,
+          "cash": 800,
+          "defuse_kit": false,
+          "equipment_value": 800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct1",
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 800,
+          "defuse_kit": false,
+          "equipment_value": 800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct2",
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 800,
+          "defuse_kit": false,
+          "equipment_value": 800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct3",
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 800,
+          "defuse_kit": false,
+          "equipment_value": 800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct4",
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 800,
+          "defuse_kit": false,
+          "equipment_value": 800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct5",
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": false,
+          "cash": 800,
+          "defuse_kit": false,
+          "equipment_value": 800,
+          "grenades": [],
+          "helmet": false,
+          "player_id": "cs2_01_t1",
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": false,
+          "cash": 800,
+          "defuse_kit": false,
+          "equipment_value": 800,
+          "grenades": [],
+          "helmet": false,
+          "player_id": "cs2_01_t2",
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": false,
+          "cash": 800,
+          "defuse_kit": false,
+          "equipment_value": 800,
+          "grenades": [],
+          "helmet": false,
+          "player_id": "cs2_01_t3",
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": false,
+          "cash": 800,
+          "defuse_kit": false,
+          "equipment_value": 800,
+          "grenades": [],
+          "helmet": false,
+          "player_id": "cs2_01_t4",
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": false,
+          "cash": 800,
+          "defuse_kit": false,
+          "equipment_value": 800,
+          "grenades": [],
+          "helmet": false,
+          "player_id": "cs2_01_t5",
+          "secondary": {
+            "name": "glock"
+          }
+        }
+      ],
+      "kills": [
+        {
+          "headshot": true,
+          "killer_id": "cs2_01_ct1",
+          "tick_ms": 5000,
+          "victim_id": "cs2_01_t1",
+          "weapon": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_t2",
+          "tick_ms": 6200,
+          "victim_id": "cs2_01_ct2",
+          "weapon": {
+            "name": "glock"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_ct3",
+          "tick_ms": 7500,
+          "victim_id": "cs2_01_t2",
+          "weapon": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "headshot": true,
+          "killer_id": "cs2_01_ct1",
+          "tick_ms": 9000,
+          "victim_id": "cs2_01_t3",
+          "weapon": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_ct4",
+          "tick_ms": 11000,
+          "victim_id": "cs2_01_t4",
+          "weapon": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_ct5",
+          "tick_ms": 13000,
+          "victim_id": "cs2_01_t5",
+          "weapon": {
+            "name": "usp_silencer"
+          }
+        }
+      ],
+      "number": 1,
+      "survivors": [
+        "cs2_01_ct1",
+        "cs2_01_ct2",
+        "cs2_01_ct3",
+        "cs2_01_ct4",
+        "cs2_01_ct5"
+      ],
+      "utility": [
+        {
+          "damage_dealt": 0,
+          "enemies_flashed": 2,
+          "kind": "flash",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_ct2",
+          "tick_ms": 3000
+        },
+        {
+          "damage_dealt": 0,
+          "enemies_flashed": 0,
+          "kind": "smoke",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_t2",
+          "tick_ms": 3500
+        },
+        {
+          "damage_dealt": 40,
+          "enemies_flashed": 0,
+          "kind": "he",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_ct3",
+          "tick_ms": 4000
+        },
+        {
+          "damage_dealt": 25,
+          "enemies_flashed": 0,
+          "kind": "molotov",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_t4",
+          "tick_ms": 4200
+        }
+      ],
+      "win_reason": "elimination",
+      "winner": "CT"
+    },
+    {
+      "bomb_planted": false,
+      "damage": [
+        {
+          "attacker_id": "cs2_01_t1",
+          "damage": 120,
+          "hitgroup": "chest",
+          "tick_ms": 4700,
+          "victim_id": "cs2_01_ct1",
+          "weapon": {
+            "name": "ak47"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_t1",
+          "damage": 65,
+          "hitgroup": "chest",
+          "tick_ms": 5100,
+          "victim_id": "cs2_01_ct1",
+          "weapon": {
+            "name": "ak47"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_t2",
+          "damage": 66,
+          "hitgroup": "chest",
+          "tick_ms": 5220,
+          "victim_id": "cs2_01_ct2",
+          "weapon": {
+            "name": "ak47"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_t3",
+          "damage": 67,
+          "hitgroup": "chest",
+          "tick_ms": 5340,
+          "victim_id": "cs2_01_ct3",
+          "weapon": {
+            "name": "ak47"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_t4",
+          "damage": 68,
+          "hitgroup": "chest",
+          "tick_ms": 5460,
+          "victim_id": "cs2_01_ct4",
+          "weapon": {
+            "name": "ak47"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_t5",
+          "damage": 69,
+          "hitgroup": "chest",
+          "tick_ms": 5580,
+          "victim_id": "cs2_01_ct5",
+          "weapon": {
+            "name": "ak47"
+          }
+        }
+      ],
+      "duration_ms": 90200,
+      "inventories": [
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 4800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct1",
+          "primary": {
+            "name": "m4a1"
+          },
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 4800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct2",
+          "primary": {
+            "name": "m4a1"
+          },
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 4800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct3",
+          "primary": {
+            "name": "m4a1"
+          },
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 4800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct4",
+          "primary": {
+            "name": "m4a1"
+          },
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 4800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct5",
+          "primary": {
+            "name": "m4a1"
+          },
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 4600,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t1",
+          "primary": {
+            "name": "ak47"
+          },
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 4600,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t2",
+          "primary": {
+            "name": "ak47"
+          },
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 4600,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t3",
+          "primary": {
+            "name": "ak47"
+          },
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 4600,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t4",
+          "primary": {
+            "name": "ak47"
+          },
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 4600,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t5",
+          "primary": {
+            "name": "ak47"
+          },
+          "secondary": {
+            "name": "glock"
+          }
+        }
+      ],
+      "kills": [
+        {
+          "headshot": true,
+          "killer_id": "cs2_01_t1",
+          "tick_ms": 4800,
+          "victim_id": "cs2_01_ct1",
+          "weapon": {
+            "name": "ak47"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_ct2",
+          "tick_ms": 6500,
+          "victim_id": "cs2_01_t1",
+          "weapon": {
+            "name": "m4a1"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_t3",
+          "tick_ms": 8000,
+          "victim_id": "cs2_01_ct2",
+          "weapon": {
+            "name": "ak47"
+          }
+        },
+        {
+          "headshot": true,
+          "killer_id": "cs2_01_t3",
+          "tick_ms": 9500,
+          "victim_id": "cs2_01_ct3",
+          "weapon": {
+            "name": "ak47"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_t4",
+          "tick_ms": 11500,
+          "victim_id": "cs2_01_ct4",
+          "weapon": {
+            "name": "ak47"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_t5",
+          "tick_ms": 14000,
+          "victim_id": "cs2_01_ct5",
+          "weapon": {
+            "name": "ak47"
+          }
+        }
+      ],
+      "number": 2,
+      "survivors": [
+        "cs2_01_t1",
+        "cs2_01_t2",
+        "cs2_01_t3",
+        "cs2_01_t4",
+        "cs2_01_t5"
+      ],
+      "utility": [
+        {
+          "damage_dealt": 0,
+          "enemies_flashed": 2,
+          "kind": "flash",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_ct2",
+          "tick_ms": 3000
+        },
+        {
+          "damage_dealt": 0,
+          "enemies_flashed": 0,
+          "kind": "smoke",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_t2",
+          "tick_ms": 3500
+        },
+        {
+          "damage_dealt": 40,
+          "enemies_flashed": 0,
+          "kind": "he",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_ct3",
+          "tick_ms": 4000
+        },
+        {
+          "damage_dealt": 25,
+          "enemies_flashed": 0,
+          "kind": "molotov",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_t4",
+          "tick_ms": 4200
+        }
+      ],
+      "win_reason": "elimination",
+      "winner": "T"
+    },
+    {
+      "bomb_planted": false,
+      "damage": [
+        {
+          "attacker_id": "cs2_01_ct1",
+          "damage": 110,
+          "hitgroup": "chest",
+          "tick_ms": 4900,
+          "victim_id": "cs2_01_t1",
+          "weapon": {
+            "name": "m4a1"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_ct1",
+          "damage": 70,
+          "hitgroup": "chest",
+          "tick_ms": 5000,
+          "victim_id": "cs2_01_t1",
+          "weapon": {
+            "name": "m4a1"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_ct2",
+          "damage": 71,
+          "hitgroup": "chest",
+          "tick_ms": 5100,
+          "victim_id": "cs2_01_t2",
+          "weapon": {
+            "name": "m4a1"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_ct3",
+          "damage": 72,
+          "hitgroup": "chest",
+          "tick_ms": 5200,
+          "victim_id": "cs2_01_t3",
+          "weapon": {
+            "name": "m4a1"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_ct4",
+          "damage": 73,
+          "hitgroup": "chest",
+          "tick_ms": 5300,
+          "victim_id": "cs2_01_t4",
+          "weapon": {
+            "name": "m4a1"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_ct5",
+          "damage": 74,
+          "hitgroup": "chest",
+          "tick_ms": 5400,
+          "victim_id": "cs2_01_t5",
+          "weapon": {
+            "name": "m4a1"
+          }
+        }
+      ],
+      "duration_ms": 90300,
+      "inventories": [
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 4800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct1",
+          "primary": {
+            "name": "m4a1"
+          },
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 4800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct2",
+          "primary": {
+            "name": "m4a1"
+          },
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 4800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct3",
+          "primary": {
+            "name": "m4a1"
+          },
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 4800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct4",
+          "primary": {
+            "name": "m4a1"
+          },
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 4800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct5",
+          "primary": {
+            "name": "m4a1"
+          },
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 4600,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t1",
+          "primary": {
+            "name": "ak47"
+          },
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 4600,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t2",
+          "primary": {
+            "name": "ak47"
+          },
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 4600,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t3",
+          "primary": {
+            "name": "ak47"
+          },
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 4600,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t4",
+          "primary": {
+            "name": "ak47"
+          },
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 4600,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t5",
+          "primary": {
+            "name": "ak47"
+          },
+          "secondary": {
+            "name": "glock"
+          }
+        }
+      ],
+      "kills": [
+        {
+          "headshot": true,
+          "killer_id": "cs2_01_ct1",
+          "tick_ms": 5000,
+          "victim_id": "cs2_01_t1",
+          "weapon": {
+            "name": "m4a1"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_t2",
+          "tick_ms": 6200,
+          "victim_id": "cs2_01_ct2",
+          "weapon": {
+            "name": "ak47"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_ct3",
+          "tick_ms": 7500,
+          "victim_id": "cs2_01_t2",
+          "weapon": {
+            "name": "m4a1"
+          }
+        },
+        {
+          "headshot": true,
+          "killer_id": "cs2_01_ct1",
+          "tick_ms": 9000,
+          "victim_id": "cs2_01_t3",
+          "weapon": {
+            "name": "m4a1"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_ct4",
+          "tick_ms": 11000,
+          "victim_id": "cs2_01_t4",
+          "weapon": {
+            "name": "m4a1"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_ct5",
+          "tick_ms": 13000,
+          "victim_id": "cs2_01_t5",
+          "weapon": {
+            "name": "m4a1"
+          }
+        }
+      ],
+      "number": 3,
+      "survivors": [
+        "cs2_01_ct1",
+        "cs2_01_ct2",
+        "cs2_01_ct3",
+        "cs2_01_ct4",
+        "cs2_01_ct5"
+      ],
+      "utility": [
+        {
+          "damage_dealt": 0,
+          "enemies_flashed": 2,
+          "kind": "flash",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_ct2",
+          "tick_ms": 3000
+        },
+        {
+          "damage_dealt": 0,
+          "enemies_flashed": 0,
+          "kind": "smoke",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_t2",
+          "tick_ms": 3500
+        },
+        {
+          "damage_dealt": 40,
+          "enemies_flashed": 0,
+          "kind": "he",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_ct3",
+          "tick_ms": 4000
+        },
+        {
+          "damage_dealt": 25,
+          "enemies_flashed": 0,
+          "kind": "molotov",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_t4",
+          "tick_ms": 4200
+        }
+      ],
+      "win_reason": "elimination",
+      "winner": "CT"
+    },
+    {
+      "bomb_planted": false,
+      "damage": [
+        {
+          "attacker_id": "cs2_01_t1",
+          "damage": 120,
+          "hitgroup": "chest",
+          "tick_ms": 4700,
+          "victim_id": "cs2_01_ct1",
+          "weapon": {
+            "name": "glock"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_t1",
+          "damage": 65,
+          "hitgroup": "chest",
+          "tick_ms": 5100,
+          "victim_id": "cs2_01_ct1",
+          "weapon": {
+            "name": "glock"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_t2",
+          "damage": 66,
+          "hitgroup": "chest",
+          "tick_ms": 5220,
+          "victim_id": "cs2_01_ct2",
+          "weapon": {
+            "name": "glock"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_t3",
+          "damage": 67,
+          "hitgroup": "chest",
+          "tick_ms": 5340,
+          "victim_id": "cs2_01_ct3",
+          "weapon": {
+            "name": "glock"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_t4",
+          "damage": 68,
+          "hitgroup": "chest",
+          "tick_ms": 5460,
+          "victim_id": "cs2_01_ct4",
+          "weapon": {
+            "name": "glock"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_t5",
+          "damage": 69,
+          "hitgroup": "chest",
+          "tick_ms": 5580,
+          "victim_id": "cs2_01_ct5",
+          "weapon": {
+            "name": "glock"
+          }
+        }
+      ],
+      "duration_ms": 90400,
+      "inventories": [
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 4500,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct1",
+          "primary": {
+            "name": "m4a1"
+          },
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 4500,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct2",
+          "primary": {
+            "name": "m4a1"
+          },
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 4500,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct3",
+          "primary": {
+            "name": "m4a1"
+          },
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 4500,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct4",
+          "primary": {
+            "name": "m4a1"
+          },
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 4500,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct5",
+          "primary": {
+            "name": "m4a1"
+          },
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 2000,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t1",
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 2000,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t2",
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 2000,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t3",
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 2000,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t4",
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 2000,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t5",
+          "secondary": {
+            "name": "glock"
+          }
+        }
+      ],
+      "kills": [
+        {
+          "headshot": true,
+          "killer_id": "cs2_01_t1",
+          "tick_ms": 4800,
+          "victim_id": "cs2_01_ct1",
+          "weapon": {
+            "name": "glock"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_ct2",
+          "tick_ms": 6500,
+          "victim_id": "cs2_01_t1",
+          "weapon": {
+            "name": "m4a1"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_t3",
+          "tick_ms": 8000,
+          "victim_id": "cs2_01_ct2",
+          "weapon": {
+            "name": "glock"
+          }
+        },
+        {
+          "headshot": true,
+          "killer_id": "cs2_01_t3",
+          "tick_ms": 9500,
+          "victim_id": "cs2_01_ct3",
+          "weapon": {
+            "name": "glock"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_t4",
+          "tick_ms": 11500,
+          "victim_id": "cs2_01_ct4",
+          "weapon": {
+            "name": "glock"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_t5",
+          "tick_ms": 14000,
+          "victim_id": "cs2_01_ct5",
+          "weapon": {
+            "name": "glock"
+          }
+        }
+      ],
+      "number": 4,
+      "survivors": [
+        "cs2_01_t1",
+        "cs2_01_t2",
+        "cs2_01_t3",
+        "cs2_01_t4",
+        "cs2_01_t5"
+      ],
+      "utility": [
+        {
+          "damage_dealt": 0,
+          "enemies_flashed": 2,
+          "kind": "flash",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_ct2",
+          "tick_ms": 3000
+        },
+        {
+          "damage_dealt": 0,
+          "enemies_flashed": 0,
+          "kind": "smoke",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_t2",
+          "tick_ms": 3500
+        },
+        {
+          "damage_dealt": 40,
+          "enemies_flashed": 0,
+          "kind": "he",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_ct3",
+          "tick_ms": 4000
+        },
+        {
+          "damage_dealt": 25,
+          "enemies_flashed": 0,
+          "kind": "molotov",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_t4",
+          "tick_ms": 4200
+        }
+      ],
+      "win_reason": "elimination",
+      "winner": "T"
+    },
+    {
+      "bomb_planted": false,
+      "damage": [
+        {
+          "attacker_id": "cs2_01_ct1",
+          "damage": 110,
+          "hitgroup": "chest",
+          "tick_ms": 4900,
+          "victim_id": "cs2_01_t1",
+          "weapon": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_ct1",
+          "damage": 70,
+          "hitgroup": "chest",
+          "tick_ms": 5000,
+          "victim_id": "cs2_01_t1",
+          "weapon": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_ct2",
+          "damage": 71,
+          "hitgroup": "chest",
+          "tick_ms": 5100,
+          "victim_id": "cs2_01_t2",
+          "weapon": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_ct3",
+          "damage": 72,
+          "hitgroup": "chest",
+          "tick_ms": 5200,
+          "victim_id": "cs2_01_t3",
+          "weapon": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_ct4",
+          "damage": 73,
+          "hitgroup": "chest",
+          "tick_ms": 5300,
+          "victim_id": "cs2_01_t4",
+          "weapon": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_ct5",
+          "damage": 74,
+          "hitgroup": "chest",
+          "tick_ms": 5400,
+          "victim_id": "cs2_01_t5",
+          "weapon": {
+            "name": "usp_silencer"
+          }
+        }
+      ],
+      "duration_ms": 90500,
+      "inventories": [
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 1800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct1",
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 1800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct2",
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 1800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct3",
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 1800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct4",
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 1800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct5",
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 4200,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t1",
+          "primary": {
+            "name": "ak47"
+          },
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 4200,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t2",
+          "primary": {
+            "name": "ak47"
+          },
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 4200,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t3",
+          "primary": {
+            "name": "ak47"
+          },
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 4200,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t4",
+          "primary": {
+            "name": "ak47"
+          },
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 4200,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t5",
+          "primary": {
+            "name": "ak47"
+          },
+          "secondary": {
+            "name": "glock"
+          }
+        }
+      ],
+      "kills": [
+        {
+          "headshot": true,
+          "killer_id": "cs2_01_ct1",
+          "tick_ms": 5000,
+          "victim_id": "cs2_01_t1",
+          "weapon": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_t2",
+          "tick_ms": 6200,
+          "victim_id": "cs2_01_ct2",
+          "weapon": {
+            "name": "ak47"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_ct3",
+          "tick_ms": 7500,
+          "victim_id": "cs2_01_t2",
+          "weapon": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "headshot": true,
+          "killer_id": "cs2_01_ct1",
+          "tick_ms": 9000,
+          "victim_id": "cs2_01_t3",
+          "weapon": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_ct4",
+          "tick_ms": 11000,
+          "victim_id": "cs2_01_t4",
+          "weapon": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_ct5",
+          "tick_ms": 13000,
+          "victim_id": "cs2_01_t5",
+          "weapon": {
+            "name": "usp_silencer"
+          }
+        }
+      ],
+      "number": 5,
+      "survivors": [
+        "cs2_01_ct1",
+        "cs2_01_ct2",
+        "cs2_01_ct3",
+        "cs2_01_ct4",
+        "cs2_01_ct5"
+      ],
+      "utility": [
+        {
+          "damage_dealt": 0,
+          "enemies_flashed": 2,
+          "kind": "flash",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_ct2",
+          "tick_ms": 3000
+        },
+        {
+          "damage_dealt": 0,
+          "enemies_flashed": 0,
+          "kind": "smoke",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_t2",
+          "tick_ms": 3500
+        },
+        {
+          "damage_dealt": 40,
+          "enemies_flashed": 0,
+          "kind": "he",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_ct3",
+          "tick_ms": 4000
+        },
+        {
+          "damage_dealt": 25,
+          "enemies_flashed": 0,
+          "kind": "molotov",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_t4",
+          "tick_ms": 4200
+        }
+      ],
+      "win_reason": "elimination",
+      "winner": "CT"
+    },
+    {
+      "bomb_planted": true,
+      "damage": [
+        {
+          "attacker_id": "cs2_01_t1",
+          "damage": 120,
+          "hitgroup": "chest",
+          "tick_ms": 4700,
+          "victim_id": "cs2_01_ct1",
+          "weapon": {
+            "name": "ak47"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_t1",
+          "damage": 65,
+          "hitgroup": "chest",
+          "tick_ms": 5100,
+          "victim_id": "cs2_01_ct1",
+          "weapon": {
+            "name": "ak47"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_t2",
+          "damage": 66,
+          "hitgroup": "chest",
+          "tick_ms": 5220,
+          "victim_id": "cs2_01_ct2",
+          "weapon": {
+            "name": "ak47"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_t3",
+          "damage": 67,
+          "hitgroup": "chest",
+          "tick_ms": 5340,
+          "victim_id": "cs2_01_ct3",
+          "weapon": {
+            "name": "ak47"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_t4",
+          "damage": 68,
+          "hitgroup": "chest",
+          "tick_ms": 5460,
+          "victim_id": "cs2_01_ct4",
+          "weapon": {
+            "name": "ak47"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_t5",
+          "damage": 69,
+          "hitgroup": "chest",
+          "tick_ms": 5580,
+          "victim_id": "cs2_01_ct5",
+          "weapon": {
+            "name": "ak47"
+          }
+        }
+      ],
+      "duration_ms": 90600,
+      "inventories": [
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 4800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct1",
+          "primary": {
+            "name": "m4a1"
+          },
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 4800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct2",
+          "primary": {
+            "name": "m4a1"
+          },
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 4800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct3",
+          "primary": {
+            "name": "m4a1"
+          },
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 4800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct4",
+          "primary": {
+            "name": "m4a1"
+          },
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 4800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct5",
+          "primary": {
+            "name": "m4a1"
+          },
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 4600,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t1",
+          "primary": {
+            "name": "ak47"
+          },
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 4600,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t2",
+          "primary": {
+            "name": "ak47"
+          },
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 4600,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t3",
+          "primary": {
+            "name": "ak47"
+          },
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 4600,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t4",
+          "primary": {
+            "name": "ak47"
+          },
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 4600,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t5",
+          "primary": {
+            "name": "ak47"
+          },
+          "secondary": {
+            "name": "glock"
+          }
+        }
+      ],
+      "kills": [
+        {
+          "headshot": true,
+          "killer_id": "cs2_01_t1",
+          "tick_ms": 4800,
+          "victim_id": "cs2_01_ct1",
+          "weapon": {
+            "name": "ak47"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_ct2",
+          "tick_ms": 6500,
+          "victim_id": "cs2_01_t1",
+          "weapon": {
+            "name": "m4a1"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_t3",
+          "tick_ms": 8000,
+          "victim_id": "cs2_01_ct2",
+          "weapon": {
+            "name": "ak47"
+          }
+        },
+        {
+          "headshot": true,
+          "killer_id": "cs2_01_t3",
+          "tick_ms": 9500,
+          "victim_id": "cs2_01_ct3",
+          "weapon": {
+            "name": "ak47"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_t4",
+          "tick_ms": 11500,
+          "victim_id": "cs2_01_ct4",
+          "weapon": {
+            "name": "ak47"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_t5",
+          "tick_ms": 14000,
+          "victim_id": "cs2_01_ct5",
+          "weapon": {
+            "name": "ak47"
+          }
+        }
+      ],
+      "number": 6,
+      "survivors": [
+        "cs2_01_t1",
+        "cs2_01_t2",
+        "cs2_01_t3",
+        "cs2_01_t4",
+        "cs2_01_t5"
+      ],
+      "utility": [
+        {
+          "damage_dealt": 0,
+          "enemies_flashed": 2,
+          "kind": "flash",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_ct2",
+          "tick_ms": 3000
+        },
+        {
+          "damage_dealt": 0,
+          "enemies_flashed": 0,
+          "kind": "smoke",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_t2",
+          "tick_ms": 3500
+        },
+        {
+          "damage_dealt": 40,
+          "enemies_flashed": 0,
+          "kind": "he",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_ct3",
+          "tick_ms": 4000
+        },
+        {
+          "damage_dealt": 25,
+          "enemies_flashed": 0,
+          "kind": "molotov",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_t4",
+          "tick_ms": 4200
+        }
+      ],
+      "win_reason": "elimination",
+      "winner": "T"
+    },
+    {
+      "bomb_planted": false,
+      "damage": [
+        {
+          "attacker_id": "cs2_01_ct1",
+          "damage": 110,
+          "hitgroup": "chest",
+          "tick_ms": 4900,
+          "victim_id": "cs2_01_t1",
+          "weapon": {
+            "name": "m4a1"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_ct1",
+          "damage": 70,
+          "hitgroup": "chest",
+          "tick_ms": 5000,
+          "victim_id": "cs2_01_t1",
+          "weapon": {
+            "name": "m4a1"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_ct2",
+          "damage": 71,
+          "hitgroup": "chest",
+          "tick_ms": 5100,
+          "victim_id": "cs2_01_t2",
+          "weapon": {
+            "name": "m4a1"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_ct3",
+          "damage": 72,
+          "hitgroup": "chest",
+          "tick_ms": 5200,
+          "victim_id": "cs2_01_t3",
+          "weapon": {
+            "name": "m4a1"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_ct4",
+          "damage": 73,
+          "hitgroup": "chest",
+          "tick_ms": 5300,
+          "victim_id": "cs2_01_t4",
+          "weapon": {
+            "name": "m4a1"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_ct5",
+          "damage": 74,
+          "hitgroup": "chest",
+          "tick_ms": 5400,
+          "victim_id": "cs2_01_t5",
+          "weapon": {
+            "name": "m4a1"
+          }
+        }
+      ],
+      "duration_ms": 90700,
+      "inventories": [
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 4800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct1",
+          "primary": {
+            "name": "m4a1"
+          },
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 4800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct2",
+          "primary": {
+            "name": "m4a1"
+          },
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 4800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct3",
+          "primary": {
+            "name": "m4a1"
+          },
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 4800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct4",
+          "primary": {
+            "name": "m4a1"
+          },
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 4800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct5",
+          "primary": {
+            "name": "m4a1"
+          },
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 4600,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t1",
+          "primary": {
+            "name": "ak47"
+          },
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 4600,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t2",
+          "primary": {
+            "name": "ak47"
+          },
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 4600,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t3",
+          "primary": {
+            "name": "ak47"
+          },
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 4600,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t4",
+          "primary": {
+            "name": "ak47"
+          },
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 4600,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t5",
+          "primary": {
+            "name": "ak47"
+          },
+          "secondary": {
+            "name": "glock"
+          }
+        }
+      ],
+      "kills": [
+        {
+          "headshot": true,
+          "killer_id": "cs2_01_ct1",
+          "tick_ms": 5000,
+          "victim_id": "cs2_01_t1",
+          "weapon": {
+            "name": "m4a1"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_t2",
+          "tick_ms": 6200,
+          "victim_id": "cs2_01_ct2",
+          "weapon": {
+            "name": "ak47"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_ct3",
+          "tick_ms": 7500,
+          "victim_id": "cs2_01_t2",
+          "weapon": {
+            "name": "m4a1"
+          }
+        },
+        {
+          "headshot": true,
+          "killer_id": "cs2_01_ct1",
+          "tick_ms": 9000,
+          "victim_id": "cs2_01_t3",
+          "weapon": {
+            "name": "m4a1"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_ct4",
+          "tick_ms": 11000,
+          "victim_id": "cs2_01_t4",
+          "weapon": {
+            "name": "m4a1"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_ct5",
+          "tick_ms": 13000,
+          "victim_id": "cs2_01_t5",
+          "weapon": {
+            "name": "m4a1"
+          }
+        }
+      ],
+      "number": 7,
+      "survivors": [
+        "cs2_01_ct1",
+        "cs2_01_ct2",
+        "cs2_01_ct3",
+        "cs2_01_ct4",
+        "cs2_01_ct5"
+      ],
+      "utility": [
+        {
+          "damage_dealt": 0,
+          "enemies_flashed": 2,
+          "kind": "flash",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_ct2",
+          "tick_ms": 3000
+        },
+        {
+          "damage_dealt": 0,
+          "enemies_flashed": 0,
+          "kind": "smoke",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_t2",
+          "tick_ms": 3500
+        },
+        {
+          "damage_dealt": 40,
+          "enemies_flashed": 0,
+          "kind": "he",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_ct3",
+          "tick_ms": 4000
+        },
+        {
+          "damage_dealt": 25,
+          "enemies_flashed": 0,
+          "kind": "molotov",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_t4",
+          "tick_ms": 4200
+        }
+      ],
+      "win_reason": "elimination",
+      "winner": "CT"
+    },
+    {
+      "bomb_planted": false,
+      "damage": [
+        {
+          "attacker_id": "cs2_01_t1",
+          "damage": 120,
+          "hitgroup": "chest",
+          "tick_ms": 4700,
+          "victim_id": "cs2_01_ct1",
+          "weapon": {
+            "name": "glock"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_t1",
+          "damage": 65,
+          "hitgroup": "chest",
+          "tick_ms": 5100,
+          "victim_id": "cs2_01_ct1",
+          "weapon": {
+            "name": "glock"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_t2",
+          "damage": 66,
+          "hitgroup": "chest",
+          "tick_ms": 5220,
+          "victim_id": "cs2_01_ct2",
+          "weapon": {
+            "name": "glock"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_t3",
+          "damage": 67,
+          "hitgroup": "chest",
+          "tick_ms": 5340,
+          "victim_id": "cs2_01_ct3",
+          "weapon": {
+            "name": "glock"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_t4",
+          "damage": 68,
+          "hitgroup": "chest",
+          "tick_ms": 5460,
+          "victim_id": "cs2_01_ct4",
+          "weapon": {
+            "name": "glock"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_t5",
+          "damage": 69,
+          "hitgroup": "chest",
+          "tick_ms": 5580,
+          "victim_id": "cs2_01_ct5",
+          "weapon": {
+            "name": "glock"
+          }
+        }
+      ],
+      "duration_ms": 90800,
+      "inventories": [
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 4500,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct1",
+          "primary": {
+            "name": "m4a1"
+          },
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 4500,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct2",
+          "primary": {
+            "name": "m4a1"
+          },
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 4500,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct3",
+          "primary": {
+            "name": "m4a1"
+          },
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 4500,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct4",
+          "primary": {
+            "name": "m4a1"
+          },
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 4500,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct5",
+          "primary": {
+            "name": "m4a1"
+          },
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 2000,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t1",
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 2000,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t2",
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 2000,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t3",
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 2000,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t4",
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 2000,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t5",
+          "secondary": {
+            "name": "glock"
+          }
+        }
+      ],
+      "kills": [
+        {
+          "headshot": true,
+          "killer_id": "cs2_01_t1",
+          "tick_ms": 4800,
+          "victim_id": "cs2_01_ct1",
+          "weapon": {
+            "name": "glock"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_ct2",
+          "tick_ms": 6500,
+          "victim_id": "cs2_01_t1",
+          "weapon": {
+            "name": "m4a1"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_t3",
+          "tick_ms": 8000,
+          "victim_id": "cs2_01_ct2",
+          "weapon": {
+            "name": "glock"
+          }
+        },
+        {
+          "headshot": true,
+          "killer_id": "cs2_01_t3",
+          "tick_ms": 9500,
+          "victim_id": "cs2_01_ct3",
+          "weapon": {
+            "name": "glock"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_t4",
+          "tick_ms": 11500,
+          "victim_id": "cs2_01_ct4",
+          "weapon": {
+            "name": "glock"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_t5",
+          "tick_ms": 14000,
+          "victim_id": "cs2_01_ct5",
+          "weapon": {
+            "name": "glock"
+          }
+        }
+      ],
+      "number": 8,
+      "survivors": [
+        "cs2_01_t1",
+        "cs2_01_t2",
+        "cs2_01_t3",
+        "cs2_01_t4",
+        "cs2_01_t5"
+      ],
+      "utility": [
+        {
+          "damage_dealt": 0,
+          "enemies_flashed": 2,
+          "kind": "flash",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_ct2",
+          "tick_ms": 3000
+        },
+        {
+          "damage_dealt": 0,
+          "enemies_flashed": 0,
+          "kind": "smoke",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_t2",
+          "tick_ms": 3500
+        },
+        {
+          "damage_dealt": 40,
+          "enemies_flashed": 0,
+          "kind": "he",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_ct3",
+          "tick_ms": 4000
+        },
+        {
+          "damage_dealt": 25,
+          "enemies_flashed": 0,
+          "kind": "molotov",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_t4",
+          "tick_ms": 4200
+        }
+      ],
+      "win_reason": "elimination",
+      "winner": "T"
+    },
+    {
+      "bomb_planted": false,
+      "damage": [
+        {
+          "attacker_id": "cs2_01_ct1",
+          "damage": 110,
+          "hitgroup": "chest",
+          "tick_ms": 4900,
+          "victim_id": "cs2_01_t1",
+          "weapon": {
+            "name": "m4a1"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_ct1",
+          "damage": 70,
+          "hitgroup": "chest",
+          "tick_ms": 5000,
+          "victim_id": "cs2_01_t1",
+          "weapon": {
+            "name": "m4a1"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_ct2",
+          "damage": 71,
+          "hitgroup": "chest",
+          "tick_ms": 5100,
+          "victim_id": "cs2_01_t2",
+          "weapon": {
+            "name": "m4a1"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_ct3",
+          "damage": 72,
+          "hitgroup": "chest",
+          "tick_ms": 5200,
+          "victim_id": "cs2_01_t3",
+          "weapon": {
+            "name": "m4a1"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_ct4",
+          "damage": 73,
+          "hitgroup": "chest",
+          "tick_ms": 5300,
+          "victim_id": "cs2_01_t4",
+          "weapon": {
+            "name": "m4a1"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_ct5",
+          "damage": 74,
+          "hitgroup": "chest",
+          "tick_ms": 5400,
+          "victim_id": "cs2_01_t5",
+          "weapon": {
+            "name": "m4a1"
+          }
+        }
+      ],
+      "duration_ms": 90900,
+      "inventories": [
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 4800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct1",
+          "primary": {
+            "name": "m4a1"
+          },
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 4800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct2",
+          "primary": {
+            "name": "m4a1"
+          },
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 4800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct3",
+          "primary": {
+            "name": "m4a1"
+          },
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 4800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct4",
+          "primary": {
+            "name": "m4a1"
+          },
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 4800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct5",
+          "primary": {
+            "name": "m4a1"
+          },
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 4600,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t1",
+          "primary": {
+            "name": "ak47"
+          },
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 4600,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t2",
+          "primary": {
+            "name": "ak47"
+          },
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 4600,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t3",
+          "primary": {
+            "name": "ak47"
+          },
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 4600,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t4",
+          "primary": {
+            "name": "ak47"
+          },
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 4600,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t5",
+          "primary": {
+            "name": "ak47"
+          },
+          "secondary": {
+            "name": "glock"
+          }
+        }
+      ],
+      "kills": [
+        {
+          "headshot": true,
+          "killer_id": "cs2_01_ct1",
+          "tick_ms": 5000,
+          "victim_id": "cs2_01_t1",
+          "weapon": {
+            "name": "m4a1"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_t2",
+          "tick_ms": 6200,
+          "victim_id": "cs2_01_ct2",
+          "weapon": {
+            "name": "ak47"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_ct3",
+          "tick_ms": 7500,
+          "victim_id": "cs2_01_t2",
+          "weapon": {
+            "name": "m4a1"
+          }
+        },
+        {
+          "headshot": true,
+          "killer_id": "cs2_01_ct1",
+          "tick_ms": 9000,
+          "victim_id": "cs2_01_t3",
+          "weapon": {
+            "name": "m4a1"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_ct4",
+          "tick_ms": 11000,
+          "victim_id": "cs2_01_t4",
+          "weapon": {
+            "name": "m4a1"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_ct5",
+          "tick_ms": 13000,
+          "victim_id": "cs2_01_t5",
+          "weapon": {
+            "name": "m4a1"
+          }
+        }
+      ],
+      "number": 9,
+      "survivors": [
+        "cs2_01_ct1",
+        "cs2_01_ct2",
+        "cs2_01_ct3",
+        "cs2_01_ct4",
+        "cs2_01_ct5"
+      ],
+      "utility": [
+        {
+          "damage_dealt": 0,
+          "enemies_flashed": 2,
+          "kind": "flash",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_ct2",
+          "tick_ms": 3000
+        },
+        {
+          "damage_dealt": 0,
+          "enemies_flashed": 0,
+          "kind": "smoke",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_t2",
+          "tick_ms": 3500
+        },
+        {
+          "damage_dealt": 40,
+          "enemies_flashed": 0,
+          "kind": "he",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_ct3",
+          "tick_ms": 4000
+        },
+        {
+          "damage_dealt": 25,
+          "enemies_flashed": 0,
+          "kind": "molotov",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_t4",
+          "tick_ms": 4200
+        }
+      ],
+      "win_reason": "elimination",
+      "winner": "CT"
+    },
+    {
+      "bomb_planted": false,
+      "damage": [
+        {
+          "attacker_id": "cs2_01_t1",
+          "damage": 120,
+          "hitgroup": "chest",
+          "tick_ms": 4700,
+          "victim_id": "cs2_01_ct1",
+          "weapon": {
+            "name": "ak47"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_t1",
+          "damage": 65,
+          "hitgroup": "chest",
+          "tick_ms": 5100,
+          "victim_id": "cs2_01_ct1",
+          "weapon": {
+            "name": "ak47"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_t2",
+          "damage": 66,
+          "hitgroup": "chest",
+          "tick_ms": 5220,
+          "victim_id": "cs2_01_ct2",
+          "weapon": {
+            "name": "ak47"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_t3",
+          "damage": 67,
+          "hitgroup": "chest",
+          "tick_ms": 5340,
+          "victim_id": "cs2_01_ct3",
+          "weapon": {
+            "name": "ak47"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_t4",
+          "damage": 68,
+          "hitgroup": "chest",
+          "tick_ms": 5460,
+          "victim_id": "cs2_01_ct4",
+          "weapon": {
+            "name": "ak47"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_t5",
+          "damage": 69,
+          "hitgroup": "chest",
+          "tick_ms": 5580,
+          "victim_id": "cs2_01_ct5",
+          "weapon": {
+            "name": "ak47"
+          }
+        }
+      ],
+      "duration_ms": 91000,
+      "inventories": [
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 1800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct1",
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 1800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct2",
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 1800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct3",
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 1800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct4",
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 1800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct5",
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 4200,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t1",
+          "primary": {
+            "name": "ak47"
+          },
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 4200,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t2",
+          "primary": {
+            "name": "ak47"
+          },
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 4200,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t3",
+          "primary": {
+            "name": "ak47"
+          },
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 4200,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t4",
+          "primary": {
+            "name": "ak47"
+          },
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 4200,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t5",
+          "primary": {
+            "name": "ak47"
+          },
+          "secondary": {
+            "name": "glock"
+          }
+        }
+      ],
+      "kills": [
+        {
+          "headshot": true,
+          "killer_id": "cs2_01_t1",
+          "tick_ms": 4800,
+          "victim_id": "cs2_01_ct1",
+          "weapon": {
+            "name": "ak47"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_ct2",
+          "tick_ms": 6500,
+          "victim_id": "cs2_01_t1",
+          "weapon": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_t3",
+          "tick_ms": 8000,
+          "victim_id": "cs2_01_ct2",
+          "weapon": {
+            "name": "ak47"
+          }
+        },
+        {
+          "headshot": true,
+          "killer_id": "cs2_01_t3",
+          "tick_ms": 9500,
+          "victim_id": "cs2_01_ct3",
+          "weapon": {
+            "name": "ak47"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_t4",
+          "tick_ms": 11500,
+          "victim_id": "cs2_01_ct4",
+          "weapon": {
+            "name": "ak47"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_t5",
+          "tick_ms": 14000,
+          "victim_id": "cs2_01_ct5",
+          "weapon": {
+            "name": "ak47"
+          }
+        }
+      ],
+      "number": 10,
+      "survivors": [
+        "cs2_01_t1",
+        "cs2_01_t2",
+        "cs2_01_t3",
+        "cs2_01_t4",
+        "cs2_01_t5"
+      ],
+      "utility": [
+        {
+          "damage_dealt": 0,
+          "enemies_flashed": 2,
+          "kind": "flash",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_ct2",
+          "tick_ms": 3000
+        },
+        {
+          "damage_dealt": 0,
+          "enemies_flashed": 0,
+          "kind": "smoke",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_t2",
+          "tick_ms": 3500
+        },
+        {
+          "damage_dealt": 40,
+          "enemies_flashed": 0,
+          "kind": "he",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_ct3",
+          "tick_ms": 4000
+        },
+        {
+          "damage_dealt": 25,
+          "enemies_flashed": 0,
+          "kind": "molotov",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_t4",
+          "tick_ms": 4200
+        }
+      ],
+      "win_reason": "elimination",
+      "winner": "T"
+    },
+    {
+      "bomb_planted": false,
+      "damage": [
+        {
+          "attacker_id": "cs2_01_ct1",
+          "damage": 110,
+          "hitgroup": "chest",
+          "tick_ms": 4900,
+          "victim_id": "cs2_01_t1",
+          "weapon": {
+            "name": "m4a1"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_ct1",
+          "damage": 70,
+          "hitgroup": "chest",
+          "tick_ms": 5000,
+          "victim_id": "cs2_01_t1",
+          "weapon": {
+            "name": "m4a1"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_ct2",
+          "damage": 71,
+          "hitgroup": "chest",
+          "tick_ms": 5100,
+          "victim_id": "cs2_01_t2",
+          "weapon": {
+            "name": "m4a1"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_ct3",
+          "damage": 72,
+          "hitgroup": "chest",
+          "tick_ms": 5200,
+          "victim_id": "cs2_01_t3",
+          "weapon": {
+            "name": "m4a1"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_ct4",
+          "damage": 73,
+          "hitgroup": "chest",
+          "tick_ms": 5300,
+          "victim_id": "cs2_01_t4",
+          "weapon": {
+            "name": "m4a1"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_ct5",
+          "damage": 74,
+          "hitgroup": "chest",
+          "tick_ms": 5400,
+          "victim_id": "cs2_01_t5",
+          "weapon": {
+            "name": "m4a1"
+          }
+        }
+      ],
+      "duration_ms": 91100,
+      "inventories": [
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 4800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct1",
+          "primary": {
+            "name": "m4a1"
+          },
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 4800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct2",
+          "primary": {
+            "name": "m4a1"
+          },
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 4800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct3",
+          "primary": {
+            "name": "m4a1"
+          },
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 4800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct4",
+          "primary": {
+            "name": "m4a1"
+          },
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 4800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct5",
+          "primary": {
+            "name": "m4a1"
+          },
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 4600,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t1",
+          "primary": {
+            "name": "ak47"
+          },
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 4600,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t2",
+          "primary": {
+            "name": "ak47"
+          },
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 4600,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t3",
+          "primary": {
+            "name": "ak47"
+          },
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 4600,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t4",
+          "primary": {
+            "name": "ak47"
+          },
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 4600,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t5",
+          "primary": {
+            "name": "ak47"
+          },
+          "secondary": {
+            "name": "glock"
+          }
+        }
+      ],
+      "kills": [
+        {
+          "headshot": true,
+          "killer_id": "cs2_01_ct1",
+          "tick_ms": 5000,
+          "victim_id": "cs2_01_t1",
+          "weapon": {
+            "name": "m4a1"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_t2",
+          "tick_ms": 6200,
+          "victim_id": "cs2_01_ct2",
+          "weapon": {
+            "name": "ak47"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_ct3",
+          "tick_ms": 7500,
+          "victim_id": "cs2_01_t2",
+          "weapon": {
+            "name": "m4a1"
+          }
+        },
+        {
+          "headshot": true,
+          "killer_id": "cs2_01_ct1",
+          "tick_ms": 9000,
+          "victim_id": "cs2_01_t3",
+          "weapon": {
+            "name": "m4a1"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_ct4",
+          "tick_ms": 11000,
+          "victim_id": "cs2_01_t4",
+          "weapon": {
+            "name": "m4a1"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_ct5",
+          "tick_ms": 13000,
+          "victim_id": "cs2_01_t5",
+          "weapon": {
+            "name": "m4a1"
+          }
+        }
+      ],
+      "number": 11,
+      "survivors": [
+        "cs2_01_ct1",
+        "cs2_01_ct2",
+        "cs2_01_ct3",
+        "cs2_01_ct4",
+        "cs2_01_ct5"
+      ],
+      "utility": [
+        {
+          "damage_dealt": 0,
+          "enemies_flashed": 2,
+          "kind": "flash",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_ct2",
+          "tick_ms": 3000
+        },
+        {
+          "damage_dealt": 0,
+          "enemies_flashed": 0,
+          "kind": "smoke",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_t2",
+          "tick_ms": 3500
+        },
+        {
+          "damage_dealt": 40,
+          "enemies_flashed": 0,
+          "kind": "he",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_ct3",
+          "tick_ms": 4000
+        },
+        {
+          "damage_dealt": 25,
+          "enemies_flashed": 0,
+          "kind": "molotov",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_t4",
+          "tick_ms": 4200
+        }
+      ],
+      "win_reason": "elimination",
+      "winner": "CT"
+    },
+    {
+      "bomb_planted": true,
+      "damage": [
+        {
+          "attacker_id": "cs2_01_t1",
+          "damage": 120,
+          "hitgroup": "chest",
+          "tick_ms": 4700,
+          "victim_id": "cs2_01_ct1",
+          "weapon": {
+            "name": "glock"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_t1",
+          "damage": 65,
+          "hitgroup": "chest",
+          "tick_ms": 5100,
+          "victim_id": "cs2_01_ct1",
+          "weapon": {
+            "name": "glock"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_t2",
+          "damage": 66,
+          "hitgroup": "chest",
+          "tick_ms": 5220,
+          "victim_id": "cs2_01_ct2",
+          "weapon": {
+            "name": "glock"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_t3",
+          "damage": 67,
+          "hitgroup": "chest",
+          "tick_ms": 5340,
+          "victim_id": "cs2_01_ct3",
+          "weapon": {
+            "name": "glock"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_t4",
+          "damage": 68,
+          "hitgroup": "chest",
+          "tick_ms": 5460,
+          "victim_id": "cs2_01_ct4",
+          "weapon": {
+            "name": "glock"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_t5",
+          "damage": 69,
+          "hitgroup": "chest",
+          "tick_ms": 5580,
+          "victim_id": "cs2_01_ct5",
+          "weapon": {
+            "name": "glock"
+          }
+        }
+      ],
+      "duration_ms": 91200,
+      "inventories": [
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 4500,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct1",
+          "primary": {
+            "name": "m4a1"
+          },
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 4500,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct2",
+          "primary": {
+            "name": "m4a1"
+          },
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 4500,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct3",
+          "primary": {
+            "name": "m4a1"
+          },
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 4500,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct4",
+          "primary": {
+            "name": "m4a1"
+          },
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 4500,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct5",
+          "primary": {
+            "name": "m4a1"
+          },
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 2000,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t1",
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 2000,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t2",
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 2000,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t3",
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 2000,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t4",
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 2000,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t5",
+          "secondary": {
+            "name": "glock"
+          }
+        }
+      ],
+      "kills": [
+        {
+          "headshot": true,
+          "killer_id": "cs2_01_t1",
+          "tick_ms": 4800,
+          "victim_id": "cs2_01_ct1",
+          "weapon": {
+            "name": "glock"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_ct2",
+          "tick_ms": 6500,
+          "victim_id": "cs2_01_t1",
+          "weapon": {
+            "name": "m4a1"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_t3",
+          "tick_ms": 8000,
+          "victim_id": "cs2_01_ct2",
+          "weapon": {
+            "name": "glock"
+          }
+        },
+        {
+          "headshot": true,
+          "killer_id": "cs2_01_t3",
+          "tick_ms": 9500,
+          "victim_id": "cs2_01_ct3",
+          "weapon": {
+            "name": "glock"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_t4",
+          "tick_ms": 11500,
+          "victim_id": "cs2_01_ct4",
+          "weapon": {
+            "name": "glock"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_t5",
+          "tick_ms": 14000,
+          "victim_id": "cs2_01_ct5",
+          "weapon": {
+            "name": "glock"
+          }
+        }
+      ],
+      "number": 12,
+      "survivors": [
+        "cs2_01_t1",
+        "cs2_01_t2",
+        "cs2_01_t3",
+        "cs2_01_t4",
+        "cs2_01_t5"
+      ],
+      "utility": [
+        {
+          "damage_dealt": 0,
+          "enemies_flashed": 2,
+          "kind": "flash",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_ct2",
+          "tick_ms": 3000
+        },
+        {
+          "damage_dealt": 0,
+          "enemies_flashed": 0,
+          "kind": "smoke",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_t2",
+          "tick_ms": 3500
+        },
+        {
+          "damage_dealt": 40,
+          "enemies_flashed": 0,
+          "kind": "he",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_ct3",
+          "tick_ms": 4000
+        },
+        {
+          "damage_dealt": 25,
+          "enemies_flashed": 0,
+          "kind": "molotov",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_t4",
+          "tick_ms": 4200
+        }
+      ],
+      "win_reason": "elimination",
+      "winner": "T"
+    },
+    {
+      "bomb_planted": false,
+      "damage": [
+        {
+          "attacker_id": "cs2_01_ct1",
+          "damage": 110,
+          "hitgroup": "chest",
+          "tick_ms": 4900,
+          "victim_id": "cs2_01_t1",
+          "weapon": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_ct1",
+          "damage": 70,
+          "hitgroup": "chest",
+          "tick_ms": 5000,
+          "victim_id": "cs2_01_t1",
+          "weapon": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_ct2",
+          "damage": 71,
+          "hitgroup": "chest",
+          "tick_ms": 5100,
+          "victim_id": "cs2_01_t2",
+          "weapon": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_ct3",
+          "damage": 72,
+          "hitgroup": "chest",
+          "tick_ms": 5200,
+          "victim_id": "cs2_01_t3",
+          "weapon": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_ct4",
+          "damage": 73,
+          "hitgroup": "chest",
+          "tick_ms": 5300,
+          "victim_id": "cs2_01_t4",
+          "weapon": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_ct5",
+          "damage": 74,
+          "hitgroup": "chest",
+          "tick_ms": 5400,
+          "victim_id": "cs2_01_t5",
+          "weapon": {
+            "name": "usp_silencer"
+          }
+        }
+      ],
+      "duration_ms": 91300,
+      "inventories": [
+        {
+          "armor": true,
+          "cash": 800,
+          "defuse_kit": false,
+          "equipment_value": 800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct1",
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 800,
+          "defuse_kit": false,
+          "equipment_value": 800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct2",
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 800,
+          "defuse_kit": false,
+          "equipment_value": 800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct3",
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 800,
+          "defuse_kit": false,
+          "equipment_value": 800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct4",
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 800,
+          "defuse_kit": false,
+          "equipment_value": 800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct5",
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": false,
+          "cash": 800,
+          "defuse_kit": false,
+          "equipment_value": 800,
+          "grenades": [],
+          "helmet": false,
+          "player_id": "cs2_01_t1",
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": false,
+          "cash": 800,
+          "defuse_kit": false,
+          "equipment_value": 800,
+          "grenades": [],
+          "helmet": false,
+          "player_id": "cs2_01_t2",
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": false,
+          "cash": 800,
+          "defuse_kit": false,
+          "equipment_value": 800,
+          "grenades": [],
+          "helmet": false,
+          "player_id": "cs2_01_t3",
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": false,
+          "cash": 800,
+          "defuse_kit": false,
+          "equipment_value": 800,
+          "grenades": [],
+          "helmet": false,
+          "player_id": "cs2_01_t4",
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": false,
+          "cash": 800,
+          "defuse_kit": false,
+          "equipment_value": 800,
+          "grenades": [],
+          "helmet": false,
+          "player_id": "cs2_01_t5",
+          "secondary": {
+            "name": "glock"
+          }
+        }
+      ],
+      "kills": [
+        {
+          "headshot": true,
+          "killer_id": "cs2_01_ct1",
+          "tick_ms": 5000,
+          "victim_id": "cs2_01_t1",
+          "weapon": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_t2",
+          "tick_ms": 6200,
+          "victim_id": "cs2_01_ct2",
+          "weapon": {
+            "name": "glock"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_ct3",
+          "tick_ms": 7500,
+          "victim_id": "cs2_01_t2",
+          "weapon": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "headshot": true,
+          "killer_id": "cs2_01_ct1",
+          "tick_ms": 9000,
+          "victim_id": "cs2_01_t3",
+          "weapon": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_ct4",
+          "tick_ms": 11000,
+          "victim_id": "cs2_01_t4",
+          "weapon": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_ct5",
+          "tick_ms": 13000,
+          "victim_id": "cs2_01_t5",
+          "weapon": {
+            "name": "usp_silencer"
+          }
+        }
+      ],
+      "number": 13,
+      "survivors": [
+        "cs2_01_ct1",
+        "cs2_01_ct2",
+        "cs2_01_ct3",
+        "cs2_01_ct4",
+        "cs2_01_ct5"
+      ],
+      "utility": [
+        {
+          "damage_dealt": 0,
+          "enemies_flashed": 2,
+          "kind": "flash",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_ct2",
+          "tick_ms": 3000
+        },
+        {
+          "damage_dealt": 0,
+          "enemies_flashed": 0,
+          "kind": "smoke",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_t2",
+          "tick_ms": 3500
+        },
+        {
+          "damage_dealt": 40,
+          "enemies_flashed": 0,
+          "kind": "he",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_ct3",
+          "tick_ms": 4000
+        },
+        {
+          "damage_dealt": 25,
+          "enemies_flashed": 0,
+          "kind": "molotov",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_t4",
+          "tick_ms": 4200
+        }
+      ],
+      "win_reason": "elimination",
+      "winner": "CT"
+    },
+    {
+      "bomb_planted": false,
+      "damage": [
+        {
+          "attacker_id": "cs2_01_t1",
+          "damage": 120,
+          "hitgroup": "chest",
+          "tick_ms": 4700,
+          "victim_id": "cs2_01_ct1",
+          "weapon": {
+            "name": "ak47"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_t1",
+          "damage": 65,
+          "hitgroup": "chest",
+          "tick_ms": 5100,
+          "victim_id": "cs2_01_ct1",
+          "weapon": {
+            "name": "ak47"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_t2",
+          "damage": 66,
+          "hitgroup": "chest",
+          "tick_ms": 5220,
+          "victim_id": "cs2_01_ct2",
+          "weapon": {
+            "name": "ak47"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_t3",
+          "damage": 67,
+          "hitgroup": "chest",
+          "tick_ms": 5340,
+          "victim_id": "cs2_01_ct3",
+          "weapon": {
+            "name": "ak47"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_t4",
+          "damage": 68,
+          "hitgroup": "chest",
+          "tick_ms": 5460,
+          "victim_id": "cs2_01_ct4",
+          "weapon": {
+            "name": "ak47"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_t5",
+          "damage": 69,
+          "hitgroup": "chest",
+          "tick_ms": 5580,
+          "victim_id": "cs2_01_ct5",
+          "weapon": {
+            "name": "ak47"
+          }
+        }
+      ],
+      "duration_ms": 91400,
+      "inventories": [
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 4800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct1",
+          "primary": {
+            "name": "m4a1"
+          },
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 4800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct2",
+          "primary": {
+            "name": "m4a1"
+          },
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 4800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct3",
+          "primary": {
+            "name": "m4a1"
+          },
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 4800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct4",
+          "primary": {
+            "name": "m4a1"
+          },
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 4800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct5",
+          "primary": {
+            "name": "m4a1"
+          },
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 4600,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t1",
+          "primary": {
+            "name": "ak47"
+          },
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 4600,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t2",
+          "primary": {
+            "name": "ak47"
+          },
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 4600,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t3",
+          "primary": {
+            "name": "ak47"
+          },
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 4600,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t4",
+          "primary": {
+            "name": "ak47"
+          },
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 4600,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t5",
+          "primary": {
+            "name": "ak47"
+          },
+          "secondary": {
+            "name": "glock"
+          }
+        }
+      ],
+      "kills": [
+        {
+          "headshot": true,
+          "killer_id": "cs2_01_t1",
+          "tick_ms": 4800,
+          "victim_id": "cs2_01_ct1",
+          "weapon": {
+            "name": "ak47"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_ct2",
+          "tick_ms": 6500,
+          "victim_id": "cs2_01_t1",
+          "weapon": {
+            "name": "m4a1"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_t3",
+          "tick_ms": 8000,
+          "victim_id": "cs2_01_ct2",
+          "weapon": {
+            "name": "ak47"
+          }
+        },
+        {
+          "headshot": true,
+          "killer_id": "cs2_01_t3",
+          "tick_ms": 9500,
+          "victim_id": "cs2_01_ct3",
+          "weapon": {
+            "name": "ak47"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_t4",
+          "tick_ms": 11500,
+          "victim_id": "cs2_01_ct4",
+          "weapon": {
+            "name": "ak47"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_t5",
+          "tick_ms": 14000,
+          "victim_id": "cs2_01_ct5",
+          "weapon": {
+            "name": "ak47"
+          }
+        }
+      ],
+      "number": 14,
+      "survivors": [
+        "cs2_01_t1",
+        "cs2_01_t2",
+        "cs2_01_t3",
+        "cs2_01_t4",
+        "cs2_01_t5"
+      ],
+      "utility": [
+        {
+          "damage_dealt": 0,
+          "enemies_flashed": 2,
+          "kind": "flash",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_ct2",
+          "tick_ms": 3000
+        },
+        {
+          "damage_dealt": 0,
+          "enemies_flashed": 0,
+          "kind": "smoke",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_t2",
+          "tick_ms": 3500
+        },
+        {
+          "damage_dealt": 40,
+          "enemies_flashed": 0,
+          "kind": "he",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_ct3",
+          "tick_ms": 4000
+        },
+        {
+          "damage_dealt": 25,
+          "enemies_flashed": 0,
+          "kind": "molotov",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_t4",
+          "tick_ms": 4200
+        }
+      ],
+      "win_reason": "elimination",
+      "winner": "T"
+    },
+    {
+      "bomb_planted": false,
+      "damage": [
+        {
+          "attacker_id": "cs2_01_ct1",
+          "damage": 110,
+          "hitgroup": "chest",
+          "tick_ms": 4900,
+          "victim_id": "cs2_01_t1",
+          "weapon": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_ct1",
+          "damage": 70,
+          "hitgroup": "chest",
+          "tick_ms": 5000,
+          "victim_id": "cs2_01_t1",
+          "weapon": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_ct2",
+          "damage": 71,
+          "hitgroup": "chest",
+          "tick_ms": 5100,
+          "victim_id": "cs2_01_t2",
+          "weapon": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_ct3",
+          "damage": 72,
+          "hitgroup": "chest",
+          "tick_ms": 5200,
+          "victim_id": "cs2_01_t3",
+          "weapon": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_ct4",
+          "damage": 73,
+          "hitgroup": "chest",
+          "tick_ms": 5300,
+          "victim_id": "cs2_01_t4",
+          "weapon": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_ct5",
+          "damage": 74,
+          "hitgroup": "chest",
+          "tick_ms": 5400,
+          "victim_id": "cs2_01_t5",
+          "weapon": {
+            "name": "usp_silencer"
+          }
+        }
+      ],
+      "duration_ms": 91500,
+      "inventories": [
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 1800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct1",
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 1800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct2",
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 1800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct3",
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 1800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct4",
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 1800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct5",
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 4200,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t1",
+          "primary": {
+            "name": "ak47"
+          },
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 4200,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t2",
+          "primary": {
+            "name": "ak47"
+          },
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 4200,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t3",
+          "primary": {
+            "name": "ak47"
+          },
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 4200,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t4",
+          "primary": {
+            "name": "ak47"
+          },
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 4200,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t5",
+          "primary": {
+            "name": "ak47"
+          },
+          "secondary": {
+            "name": "glock"
+          }
+        }
+      ],
+      "kills": [
+        {
+          "headshot": true,
+          "killer_id": "cs2_01_ct1",
+          "tick_ms": 5000,
+          "victim_id": "cs2_01_t1",
+          "weapon": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_t2",
+          "tick_ms": 6200,
+          "victim_id": "cs2_01_ct2",
+          "weapon": {
+            "name": "ak47"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_ct3",
+          "tick_ms": 7500,
+          "victim_id": "cs2_01_t2",
+          "weapon": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "headshot": true,
+          "killer_id": "cs2_01_ct1",
+          "tick_ms": 9000,
+          "victim_id": "cs2_01_t3",
+          "weapon": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_ct4",
+          "tick_ms": 11000,
+          "victim_id": "cs2_01_t4",
+          "weapon": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_ct5",
+          "tick_ms": 13000,
+          "victim_id": "cs2_01_t5",
+          "weapon": {
+            "name": "usp_silencer"
+          }
+        }
+      ],
+      "number": 15,
+      "survivors": [
+        "cs2_01_ct1",
+        "cs2_01_ct2",
+        "cs2_01_ct3",
+        "cs2_01_ct4",
+        "cs2_01_ct5"
+      ],
+      "utility": [
+        {
+          "damage_dealt": 0,
+          "enemies_flashed": 2,
+          "kind": "flash",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_ct2",
+          "tick_ms": 3000
+        },
+        {
+          "damage_dealt": 0,
+          "enemies_flashed": 0,
+          "kind": "smoke",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_t2",
+          "tick_ms": 3500
+        },
+        {
+          "damage_dealt": 40,
+          "enemies_flashed": 0,
+          "kind": "he",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_ct3",
+          "tick_ms": 4000
+        },
+        {
+          "damage_dealt": 25,
+          "enemies_flashed": 0,
+          "kind": "molotov",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_t4",
+          "tick_ms": 4200
+        }
+      ],
+      "win_reason": "elimination",
+      "winner": "CT"
+    },
+    {
+      "bomb_planted": false,
+      "damage": [
+        {
+          "attacker_id": "cs2_01_t1",
+          "damage": 120,
+          "hitgroup": "chest",
+          "tick_ms": 4700,
+          "victim_id": "cs2_01_ct1",
+          "weapon": {
+            "name": "glock"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_t1",
+          "damage": 65,
+          "hitgroup": "chest",
+          "tick_ms": 5100,
+          "victim_id": "cs2_01_ct1",
+          "weapon": {
+            "name": "glock"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_t2",
+          "damage": 66,
+          "hitgroup": "chest",
+          "tick_ms": 5220,
+          "victim_id": "cs2_01_ct2",
+          "weapon": {
+            "name": "glock"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_t3",
+          "damage": 67,
+          "hitgroup": "chest",
+          "tick_ms": 5340,
+          "victim_id": "cs2_01_ct3",
+          "weapon": {
+            "name": "glock"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_t4",
+          "damage": 68,
+          "hitgroup": "chest",
+          "tick_ms": 5460,
+          "victim_id": "cs2_01_ct4",
+          "weapon": {
+            "name": "glock"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_t5",
+          "damage": 69,
+          "hitgroup": "chest",
+          "tick_ms": 5580,
+          "victim_id": "cs2_01_ct5",
+          "weapon": {
+            "name": "glock"
+          }
+        }
+      ],
+      "duration_ms": 91600,
+      "inventories": [
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 4500,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct1",
+          "primary": {
+            "name": "m4a1"
+          },
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 4500,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct2",
+          "primary": {
+            "name": "m4a1"
+          },
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 4500,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct3",
+          "primary": {
+            "name": "m4a1"
+          },
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 4500,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct4",
+          "primary": {
+            "name": "m4a1"
+          },
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 4500,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct5",
+          "primary": {
+            "name": "m4a1"
+          },
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 2000,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t1",
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 2000,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t2",
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 2000,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t3",
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 2000,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t4",
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 2000,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t5",
+          "secondary": {
+            "name": "glock"
+          }
+        }
+      ],
+      "kills": [
+        {
+          "headshot": true,
+          "killer_id": "cs2_01_t1",
+          "tick_ms": 4800,
+          "victim_id": "cs2_01_ct1",
+          "weapon": {
+            "name": "glock"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_ct2",
+          "tick_ms": 6500,
+          "victim_id": "cs2_01_t1",
+          "weapon": {
+            "name": "m4a1"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_t3",
+          "tick_ms": 8000,
+          "victim_id": "cs2_01_ct2",
+          "weapon": {
+            "name": "glock"
+          }
+        },
+        {
+          "headshot": true,
+          "killer_id": "cs2_01_t3",
+          "tick_ms": 9500,
+          "victim_id": "cs2_01_ct3",
+          "weapon": {
+            "name": "glock"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_t4",
+          "tick_ms": 11500,
+          "victim_id": "cs2_01_ct4",
+          "weapon": {
+            "name": "glock"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_t5",
+          "tick_ms": 14000,
+          "victim_id": "cs2_01_ct5",
+          "weapon": {
+            "name": "glock"
+          }
+        }
+      ],
+      "number": 16,
+      "survivors": [
+        "cs2_01_t1",
+        "cs2_01_t2",
+        "cs2_01_t3",
+        "cs2_01_t4",
+        "cs2_01_t5"
+      ],
+      "utility": [
+        {
+          "damage_dealt": 0,
+          "enemies_flashed": 2,
+          "kind": "flash",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_ct2",
+          "tick_ms": 3000
+        },
+        {
+          "damage_dealt": 0,
+          "enemies_flashed": 0,
+          "kind": "smoke",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_t2",
+          "tick_ms": 3500
+        },
+        {
+          "damage_dealt": 40,
+          "enemies_flashed": 0,
+          "kind": "he",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_ct3",
+          "tick_ms": 4000
+        },
+        {
+          "damage_dealt": 25,
+          "enemies_flashed": 0,
+          "kind": "molotov",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_t4",
+          "tick_ms": 4200
+        }
+      ],
+      "win_reason": "elimination",
+      "winner": "T"
+    },
+    {
+      "bomb_planted": false,
+      "damage": [
+        {
+          "attacker_id": "cs2_01_ct1",
+          "damage": 110,
+          "hitgroup": "chest",
+          "tick_ms": 4900,
+          "victim_id": "cs2_01_t1",
+          "weapon": {
+            "name": "m4a1"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_ct1",
+          "damage": 70,
+          "hitgroup": "chest",
+          "tick_ms": 5000,
+          "victim_id": "cs2_01_t1",
+          "weapon": {
+            "name": "m4a1"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_ct2",
+          "damage": 71,
+          "hitgroup": "chest",
+          "tick_ms": 5100,
+          "victim_id": "cs2_01_t2",
+          "weapon": {
+            "name": "m4a1"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_ct3",
+          "damage": 72,
+          "hitgroup": "chest",
+          "tick_ms": 5200,
+          "victim_id": "cs2_01_t3",
+          "weapon": {
+            "name": "m4a1"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_ct4",
+          "damage": 73,
+          "hitgroup": "chest",
+          "tick_ms": 5300,
+          "victim_id": "cs2_01_t4",
+          "weapon": {
+            "name": "m4a1"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_ct5",
+          "damage": 74,
+          "hitgroup": "chest",
+          "tick_ms": 5400,
+          "victim_id": "cs2_01_t5",
+          "weapon": {
+            "name": "m4a1"
+          }
+        }
+      ],
+      "duration_ms": 91700,
+      "inventories": [
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 4800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct1",
+          "primary": {
+            "name": "m4a1"
+          },
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 4800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct2",
+          "primary": {
+            "name": "m4a1"
+          },
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 4800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct3",
+          "primary": {
+            "name": "m4a1"
+          },
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 4800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct4",
+          "primary": {
+            "name": "m4a1"
+          },
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 4800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct5",
+          "primary": {
+            "name": "m4a1"
+          },
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 4600,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t1",
+          "primary": {
+            "name": "ak47"
+          },
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 4600,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t2",
+          "primary": {
+            "name": "ak47"
+          },
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 4600,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t3",
+          "primary": {
+            "name": "ak47"
+          },
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 4600,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t4",
+          "primary": {
+            "name": "ak47"
+          },
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 4600,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t5",
+          "primary": {
+            "name": "ak47"
+          },
+          "secondary": {
+            "name": "glock"
+          }
+        }
+      ],
+      "kills": [
+        {
+          "headshot": true,
+          "killer_id": "cs2_01_ct1",
+          "tick_ms": 5000,
+          "victim_id": "cs2_01_t1",
+          "weapon": {
+            "name": "m4a1"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_t2",
+          "tick_ms": 6200,
+          "victim_id": "cs2_01_ct2",
+          "weapon": {
+            "name": "ak47"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_ct3",
+          "tick_ms": 7500,
+          "victim_id": "cs2_01_t2",
+          "weapon": {
+            "name": "m4a1"
+          }
+        },
+        {
+          "headshot": true,
+          "killer_id": "cs2_01_ct1",
+          "tick_ms": 9000,
+          "victim_id": "cs2_01_t3",
+          "weapon": {
+            "name": "m4a1"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_ct4",
+          "tick_ms": 11000,
+          "victim_id": "cs2_01_t4",
+          "weapon": {
+            "name": "m4a1"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_ct5",
+          "tick_ms": 13000,
+          "victim_id": "cs2_01_t5",
+          "weapon": {
+            "name": "m4a1"
+          }
+        }
+      ],
+      "number": 17,
+      "survivors": [
+        "cs2_01_ct1",
+        "cs2_01_ct2",
+        "cs2_01_ct3",
+        "cs2_01_ct4",
+        "cs2_01_ct5"
+      ],
+      "utility": [
+        {
+          "damage_dealt": 0,
+          "enemies_flashed": 2,
+          "kind": "flash",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_ct2",
+          "tick_ms": 3000
+        },
+        {
+          "damage_dealt": 0,
+          "enemies_flashed": 0,
+          "kind": "smoke",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_t2",
+          "tick_ms": 3500
+        },
+        {
+          "damage_dealt": 40,
+          "enemies_flashed": 0,
+          "kind": "he",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_ct3",
+          "tick_ms": 4000
+        },
+        {
+          "damage_dealt": 25,
+          "enemies_flashed": 0,
+          "kind": "molotov",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_t4",
+          "tick_ms": 4200
+        }
+      ],
+      "win_reason": "elimination",
+      "winner": "CT"
+    },
+    {
+      "bomb_planted": true,
+      "damage": [
+        {
+          "attacker_id": "cs2_01_t1",
+          "damage": 120,
+          "hitgroup": "chest",
+          "tick_ms": 4700,
+          "victim_id": "cs2_01_ct1",
+          "weapon": {
+            "name": "ak47"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_t1",
+          "damage": 65,
+          "hitgroup": "chest",
+          "tick_ms": 5100,
+          "victim_id": "cs2_01_ct1",
+          "weapon": {
+            "name": "ak47"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_t2",
+          "damage": 66,
+          "hitgroup": "chest",
+          "tick_ms": 5220,
+          "victim_id": "cs2_01_ct2",
+          "weapon": {
+            "name": "ak47"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_t3",
+          "damage": 67,
+          "hitgroup": "chest",
+          "tick_ms": 5340,
+          "victim_id": "cs2_01_ct3",
+          "weapon": {
+            "name": "ak47"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_t4",
+          "damage": 68,
+          "hitgroup": "chest",
+          "tick_ms": 5460,
+          "victim_id": "cs2_01_ct4",
+          "weapon": {
+            "name": "ak47"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_t5",
+          "damage": 69,
+          "hitgroup": "chest",
+          "tick_ms": 5580,
+          "victim_id": "cs2_01_ct5",
+          "weapon": {
+            "name": "ak47"
+          }
+        }
+      ],
+      "duration_ms": 91800,
+      "inventories": [
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 4800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct1",
+          "primary": {
+            "name": "m4a1"
+          },
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 4800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct2",
+          "primary": {
+            "name": "m4a1"
+          },
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 4800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct3",
+          "primary": {
+            "name": "m4a1"
+          },
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 4800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct4",
+          "primary": {
+            "name": "m4a1"
+          },
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 4800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct5",
+          "primary": {
+            "name": "m4a1"
+          },
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 4600,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t1",
+          "primary": {
+            "name": "ak47"
+          },
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 4600,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t2",
+          "primary": {
+            "name": "ak47"
+          },
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 4600,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t3",
+          "primary": {
+            "name": "ak47"
+          },
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 4600,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t4",
+          "primary": {
+            "name": "ak47"
+          },
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 4600,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t5",
+          "primary": {
+            "name": "ak47"
+          },
+          "secondary": {
+            "name": "glock"
+          }
+        }
+      ],
+      "kills": [
+        {
+          "headshot": true,
+          "killer_id": "cs2_01_t1",
+          "tick_ms": 4800,
+          "victim_id": "cs2_01_ct1",
+          "weapon": {
+            "name": "ak47"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_ct2",
+          "tick_ms": 6500,
+          "victim_id": "cs2_01_t1",
+          "weapon": {
+            "name": "m4a1"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_t3",
+          "tick_ms": 8000,
+          "victim_id": "cs2_01_ct2",
+          "weapon": {
+            "name": "ak47"
+          }
+        },
+        {
+          "headshot": true,
+          "killer_id": "cs2_01_t3",
+          "tick_ms": 9500,
+          "victim_id": "cs2_01_ct3",
+          "weapon": {
+            "name": "ak47"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_t4",
+          "tick_ms": 11500,
+          "victim_id": "cs2_01_ct4",
+          "weapon": {
+            "name": "ak47"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_t5",
+          "tick_ms": 14000,
+          "victim_id": "cs2_01_ct5",
+          "weapon": {
+            "name": "ak47"
+          }
+        }
+      ],
+      "number": 18,
+      "survivors": [
+        "cs2_01_t1",
+        "cs2_01_t2",
+        "cs2_01_t3",
+        "cs2_01_t4",
+        "cs2_01_t5"
+      ],
+      "utility": [
+        {
+          "damage_dealt": 0,
+          "enemies_flashed": 2,
+          "kind": "flash",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_ct2",
+          "tick_ms": 3000
+        },
+        {
+          "damage_dealt": 0,
+          "enemies_flashed": 0,
+          "kind": "smoke",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_t2",
+          "tick_ms": 3500
+        },
+        {
+          "damage_dealt": 40,
+          "enemies_flashed": 0,
+          "kind": "he",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_ct3",
+          "tick_ms": 4000
+        },
+        {
+          "damage_dealt": 25,
+          "enemies_flashed": 0,
+          "kind": "molotov",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_t4",
+          "tick_ms": 4200
+        }
+      ],
+      "win_reason": "elimination",
+      "winner": "T"
+    },
+    {
+      "bomb_planted": false,
+      "damage": [
+        {
+          "attacker_id": "cs2_01_ct1",
+          "damage": 110,
+          "hitgroup": "chest",
+          "tick_ms": 4900,
+          "victim_id": "cs2_01_t1",
+          "weapon": {
+            "name": "m4a1"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_ct1",
+          "damage": 70,
+          "hitgroup": "chest",
+          "tick_ms": 5000,
+          "victim_id": "cs2_01_t1",
+          "weapon": {
+            "name": "m4a1"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_ct2",
+          "damage": 71,
+          "hitgroup": "chest",
+          "tick_ms": 5100,
+          "victim_id": "cs2_01_t2",
+          "weapon": {
+            "name": "m4a1"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_ct3",
+          "damage": 72,
+          "hitgroup": "chest",
+          "tick_ms": 5200,
+          "victim_id": "cs2_01_t3",
+          "weapon": {
+            "name": "m4a1"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_ct4",
+          "damage": 73,
+          "hitgroup": "chest",
+          "tick_ms": 5300,
+          "victim_id": "cs2_01_t4",
+          "weapon": {
+            "name": "m4a1"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_ct5",
+          "damage": 74,
+          "hitgroup": "chest",
+          "tick_ms": 5400,
+          "victim_id": "cs2_01_t5",
+          "weapon": {
+            "name": "m4a1"
+          }
+        }
+      ],
+      "duration_ms": 91900,
+      "inventories": [
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 4800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct1",
+          "primary": {
+            "name": "m4a1"
+          },
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 4800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct2",
+          "primary": {
+            "name": "m4a1"
+          },
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 4800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct3",
+          "primary": {
+            "name": "m4a1"
+          },
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 4800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct4",
+          "primary": {
+            "name": "m4a1"
+          },
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 4800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct5",
+          "primary": {
+            "name": "m4a1"
+          },
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 4600,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t1",
+          "primary": {
+            "name": "ak47"
+          },
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 4600,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t2",
+          "primary": {
+            "name": "ak47"
+          },
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 4600,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t3",
+          "primary": {
+            "name": "ak47"
+          },
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 4600,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t4",
+          "primary": {
+            "name": "ak47"
+          },
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 4600,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t5",
+          "primary": {
+            "name": "ak47"
+          },
+          "secondary": {
+            "name": "glock"
+          }
+        }
+      ],
+      "kills": [
+        {
+          "headshot": true,
+          "killer_id": "cs2_01_ct1",
+          "tick_ms": 5000,
+          "victim_id": "cs2_01_t1",
+          "weapon": {
+            "name": "m4a1"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_t2",
+          "tick_ms": 6200,
+          "victim_id": "cs2_01_ct2",
+          "weapon": {
+            "name": "ak47"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_ct3",
+          "tick_ms": 7500,
+          "victim_id": "cs2_01_t2",
+          "weapon": {
+            "name": "m4a1"
+          }
+        },
+        {
+          "headshot": true,
+          "killer_id": "cs2_01_ct1",
+          "tick_ms": 9000,
+          "victim_id": "cs2_01_t3",
+          "weapon": {
+            "name": "m4a1"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_ct4",
+          "tick_ms": 11000,
+          "victim_id": "cs2_01_t4",
+          "weapon": {
+            "name": "m4a1"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_ct5",
+          "tick_ms": 13000,
+          "victim_id": "cs2_01_t5",
+          "weapon": {
+            "name": "m4a1"
+          }
+        }
+      ],
+      "number": 19,
+      "survivors": [
+        "cs2_01_ct1",
+        "cs2_01_ct2",
+        "cs2_01_ct3",
+        "cs2_01_ct4",
+        "cs2_01_ct5"
+      ],
+      "utility": [
+        {
+          "damage_dealt": 0,
+          "enemies_flashed": 2,
+          "kind": "flash",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_ct2",
+          "tick_ms": 3000
+        },
+        {
+          "damage_dealt": 0,
+          "enemies_flashed": 0,
+          "kind": "smoke",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_t2",
+          "tick_ms": 3500
+        },
+        {
+          "damage_dealt": 40,
+          "enemies_flashed": 0,
+          "kind": "he",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_ct3",
+          "tick_ms": 4000
+        },
+        {
+          "damage_dealt": 25,
+          "enemies_flashed": 0,
+          "kind": "molotov",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_t4",
+          "tick_ms": 4200
+        }
+      ],
+      "win_reason": "elimination",
+      "winner": "CT"
+    },
+    {
+      "bomb_planted": false,
+      "damage": [
+        {
+          "attacker_id": "cs2_01_ct1",
+          "damage": 110,
+          "hitgroup": "chest",
+          "tick_ms": 4900,
+          "victim_id": "cs2_01_t1",
+          "weapon": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_ct1",
+          "damage": 70,
+          "hitgroup": "chest",
+          "tick_ms": 5000,
+          "victim_id": "cs2_01_t1",
+          "weapon": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_ct2",
+          "damage": 71,
+          "hitgroup": "chest",
+          "tick_ms": 5100,
+          "victim_id": "cs2_01_t2",
+          "weapon": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_ct3",
+          "damage": 72,
+          "hitgroup": "chest",
+          "tick_ms": 5200,
+          "victim_id": "cs2_01_t3",
+          "weapon": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_ct4",
+          "damage": 73,
+          "hitgroup": "chest",
+          "tick_ms": 5300,
+          "victim_id": "cs2_01_t4",
+          "weapon": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_ct5",
+          "damage": 74,
+          "hitgroup": "chest",
+          "tick_ms": 5400,
+          "victim_id": "cs2_01_t5",
+          "weapon": {
+            "name": "usp_silencer"
+          }
+        }
+      ],
+      "duration_ms": 92000,
+      "inventories": [
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 1800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct1",
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 1800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct2",
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 1800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct3",
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 1800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct4",
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 1800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct5",
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 4200,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t1",
+          "primary": {
+            "name": "ak47"
+          },
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 4200,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t2",
+          "primary": {
+            "name": "ak47"
+          },
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 4200,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t3",
+          "primary": {
+            "name": "ak47"
+          },
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 4200,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t4",
+          "primary": {
+            "name": "ak47"
+          },
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 4200,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t5",
+          "primary": {
+            "name": "ak47"
+          },
+          "secondary": {
+            "name": "glock"
+          }
+        }
+      ],
+      "kills": [
+        {
+          "headshot": true,
+          "killer_id": "cs2_01_ct1",
+          "tick_ms": 5000,
+          "victim_id": "cs2_01_t1",
+          "weapon": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_t2",
+          "tick_ms": 6200,
+          "victim_id": "cs2_01_ct2",
+          "weapon": {
+            "name": "ak47"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_ct3",
+          "tick_ms": 7500,
+          "victim_id": "cs2_01_t2",
+          "weapon": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "headshot": true,
+          "killer_id": "cs2_01_ct1",
+          "tick_ms": 9000,
+          "victim_id": "cs2_01_t3",
+          "weapon": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_ct4",
+          "tick_ms": 11000,
+          "victim_id": "cs2_01_t4",
+          "weapon": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_ct5",
+          "tick_ms": 13000,
+          "victim_id": "cs2_01_t5",
+          "weapon": {
+            "name": "usp_silencer"
+          }
+        }
+      ],
+      "number": 20,
+      "survivors": [
+        "cs2_01_ct1",
+        "cs2_01_ct2",
+        "cs2_01_ct3",
+        "cs2_01_ct4",
+        "cs2_01_ct5"
+      ],
+      "utility": [
+        {
+          "damage_dealt": 0,
+          "enemies_flashed": 2,
+          "kind": "flash",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_ct2",
+          "tick_ms": 3000
+        },
+        {
+          "damage_dealt": 0,
+          "enemies_flashed": 0,
+          "kind": "smoke",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_t2",
+          "tick_ms": 3500
+        },
+        {
+          "damage_dealt": 40,
+          "enemies_flashed": 0,
+          "kind": "he",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_ct3",
+          "tick_ms": 4000
+        },
+        {
+          "damage_dealt": 25,
+          "enemies_flashed": 0,
+          "kind": "molotov",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_t4",
+          "tick_ms": 4200
+        }
+      ],
+      "win_reason": "elimination",
+      "winner": "CT"
+    },
+    {
+      "bomb_planted": false,
+      "damage": [
+        {
+          "attacker_id": "cs2_01_ct1",
+          "damage": 110,
+          "hitgroup": "chest",
+          "tick_ms": 4900,
+          "victim_id": "cs2_01_t1",
+          "weapon": {
+            "name": "m4a1"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_ct1",
+          "damage": 70,
+          "hitgroup": "chest",
+          "tick_ms": 5000,
+          "victim_id": "cs2_01_t1",
+          "weapon": {
+            "name": "m4a1"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_ct2",
+          "damage": 71,
+          "hitgroup": "chest",
+          "tick_ms": 5100,
+          "victim_id": "cs2_01_t2",
+          "weapon": {
+            "name": "m4a1"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_ct3",
+          "damage": 72,
+          "hitgroup": "chest",
+          "tick_ms": 5200,
+          "victim_id": "cs2_01_t3",
+          "weapon": {
+            "name": "m4a1"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_ct4",
+          "damage": 73,
+          "hitgroup": "chest",
+          "tick_ms": 5300,
+          "victim_id": "cs2_01_t4",
+          "weapon": {
+            "name": "m4a1"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_ct5",
+          "damage": 74,
+          "hitgroup": "chest",
+          "tick_ms": 5400,
+          "victim_id": "cs2_01_t5",
+          "weapon": {
+            "name": "m4a1"
+          }
+        }
+      ],
+      "duration_ms": 92100,
+      "inventories": [
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 4800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct1",
+          "primary": {
+            "name": "m4a1"
+          },
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 4800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct2",
+          "primary": {
+            "name": "m4a1"
+          },
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 4800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct3",
+          "primary": {
+            "name": "m4a1"
+          },
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 4800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct4",
+          "primary": {
+            "name": "m4a1"
+          },
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 4800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct5",
+          "primary": {
+            "name": "m4a1"
+          },
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 4600,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t1",
+          "primary": {
+            "name": "ak47"
+          },
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 4600,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t2",
+          "primary": {
+            "name": "ak47"
+          },
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 4600,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t3",
+          "primary": {
+            "name": "ak47"
+          },
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 4600,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t4",
+          "primary": {
+            "name": "ak47"
+          },
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 4600,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t5",
+          "primary": {
+            "name": "ak47"
+          },
+          "secondary": {
+            "name": "glock"
+          }
+        }
+      ],
+      "kills": [
+        {
+          "headshot": true,
+          "killer_id": "cs2_01_ct1",
+          "tick_ms": 5000,
+          "victim_id": "cs2_01_t1",
+          "weapon": {
+            "name": "m4a1"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_t2",
+          "tick_ms": 6200,
+          "victim_id": "cs2_01_ct2",
+          "weapon": {
+            "name": "ak47"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_ct3",
+          "tick_ms": 7500,
+          "victim_id": "cs2_01_t2",
+          "weapon": {
+            "name": "m4a1"
+          }
+        },
+        {
+          "headshot": true,
+          "killer_id": "cs2_01_ct1",
+          "tick_ms": 9000,
+          "victim_id": "cs2_01_t3",
+          "weapon": {
+            "name": "m4a1"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_ct4",
+          "tick_ms": 11000,
+          "victim_id": "cs2_01_t4",
+          "weapon": {
+            "name": "m4a1"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_ct5",
+          "tick_ms": 13000,
+          "victim_id": "cs2_01_t5",
+          "weapon": {
+            "name": "m4a1"
+          }
+        }
+      ],
+      "number": 21,
+      "survivors": [
+        "cs2_01_ct1",
+        "cs2_01_ct2",
+        "cs2_01_ct3",
+        "cs2_01_ct4",
+        "cs2_01_ct5"
+      ],
+      "utility": [
+        {
+          "damage_dealt": 0,
+          "enemies_flashed": 2,
+          "kind": "flash",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_ct2",
+          "tick_ms": 3000
+        },
+        {
+          "damage_dealt": 0,
+          "enemies_flashed": 0,
+          "kind": "smoke",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_t2",
+          "tick_ms": 3500
+        },
+        {
+          "damage_dealt": 40,
+          "enemies_flashed": 0,
+          "kind": "he",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_ct3",
+          "tick_ms": 4000
+        },
+        {
+          "damage_dealt": 25,
+          "enemies_flashed": 0,
+          "kind": "molotov",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_t4",
+          "tick_ms": 4200
+        }
+      ],
+      "win_reason": "elimination",
+      "winner": "CT"
+    },
+    {
+      "bomb_planted": false,
+      "damage": [
+        {
+          "attacker_id": "cs2_01_ct1",
+          "damage": 110,
+          "hitgroup": "chest",
+          "tick_ms": 4900,
+          "victim_id": "cs2_01_t1",
+          "weapon": {
+            "name": "m4a1"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_ct1",
+          "damage": 70,
+          "hitgroup": "chest",
+          "tick_ms": 5000,
+          "victim_id": "cs2_01_t1",
+          "weapon": {
+            "name": "m4a1"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_ct2",
+          "damage": 71,
+          "hitgroup": "chest",
+          "tick_ms": 5100,
+          "victim_id": "cs2_01_t2",
+          "weapon": {
+            "name": "m4a1"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_ct3",
+          "damage": 72,
+          "hitgroup": "chest",
+          "tick_ms": 5200,
+          "victim_id": "cs2_01_t3",
+          "weapon": {
+            "name": "m4a1"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_ct4",
+          "damage": 73,
+          "hitgroup": "chest",
+          "tick_ms": 5300,
+          "victim_id": "cs2_01_t4",
+          "weapon": {
+            "name": "m4a1"
+          }
+        },
+        {
+          "attacker_id": "cs2_01_ct5",
+          "damage": 74,
+          "hitgroup": "chest",
+          "tick_ms": 5400,
+          "victim_id": "cs2_01_t5",
+          "weapon": {
+            "name": "m4a1"
+          }
+        }
+      ],
+      "duration_ms": 92200,
+      "inventories": [
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 4800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct1",
+          "primary": {
+            "name": "m4a1"
+          },
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 4800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct2",
+          "primary": {
+            "name": "m4a1"
+          },
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 4800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct3",
+          "primary": {
+            "name": "m4a1"
+          },
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 4800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct4",
+          "primary": {
+            "name": "m4a1"
+          },
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1500,
+          "defuse_kit": false,
+          "equipment_value": 4800,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_ct5",
+          "primary": {
+            "name": "m4a1"
+          },
+          "secondary": {
+            "name": "usp_silencer"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 4600,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t1",
+          "primary": {
+            "name": "ak47"
+          },
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 4600,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t2",
+          "primary": {
+            "name": "ak47"
+          },
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 4600,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t3",
+          "primary": {
+            "name": "ak47"
+          },
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 4600,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t4",
+          "primary": {
+            "name": "ak47"
+          },
+          "secondary": {
+            "name": "glock"
+          }
+        },
+        {
+          "armor": true,
+          "cash": 1200,
+          "defuse_kit": false,
+          "equipment_value": 4600,
+          "grenades": [],
+          "helmet": true,
+          "player_id": "cs2_01_t5",
+          "primary": {
+            "name": "ak47"
+          },
+          "secondary": {
+            "name": "glock"
+          }
+        }
+      ],
+      "kills": [
+        {
+          "headshot": true,
+          "killer_id": "cs2_01_ct1",
+          "tick_ms": 5000,
+          "victim_id": "cs2_01_t1",
+          "weapon": {
+            "name": "m4a1"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_t2",
+          "tick_ms": 6200,
+          "victim_id": "cs2_01_ct2",
+          "weapon": {
+            "name": "ak47"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_ct3",
+          "tick_ms": 7500,
+          "victim_id": "cs2_01_t2",
+          "weapon": {
+            "name": "m4a1"
+          }
+        },
+        {
+          "headshot": true,
+          "killer_id": "cs2_01_ct1",
+          "tick_ms": 9000,
+          "victim_id": "cs2_01_t3",
+          "weapon": {
+            "name": "m4a1"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_ct4",
+          "tick_ms": 11000,
+          "victim_id": "cs2_01_t4",
+          "weapon": {
+            "name": "m4a1"
+          }
+        },
+        {
+          "headshot": false,
+          "killer_id": "cs2_01_ct5",
+          "tick_ms": 13000,
+          "victim_id": "cs2_01_t5",
+          "weapon": {
+            "name": "m4a1"
+          }
+        }
+      ],
+      "number": 22,
+      "survivors": [
+        "cs2_01_ct1",
+        "cs2_01_ct2",
+        "cs2_01_ct3",
+        "cs2_01_ct4",
+        "cs2_01_ct5"
+      ],
+      "utility": [
+        {
+          "damage_dealt": 0,
+          "enemies_flashed": 2,
+          "kind": "flash",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_ct2",
+          "tick_ms": 3000
+        },
+        {
+          "damage_dealt": 0,
+          "enemies_flashed": 0,
+          "kind": "smoke",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_t2",
+          "tick_ms": 3500
+        },
+        {
+          "damage_dealt": 40,
+          "enemies_flashed": 0,
+          "kind": "he",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_ct3",
+          "tick_ms": 4000
+        },
+        {
+          "damage_dealt": 25,
+          "enemies_flashed": 0,
+          "kind": "molotov",
+          "tags": [],
+          "teammates_flashed": 0,
+          "thrower_id": "cs2_01_t4",
+          "tick_ms": 4200
+        }
+      ],
+      "win_reason": "elimination",
+      "winner": "CT"
+    }
+  ],
+  "team_ct_name": "Aurora",
+  "team_t_name": "Nimbus"
+}
